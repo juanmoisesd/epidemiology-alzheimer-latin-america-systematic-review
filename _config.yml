@@ -1,0 +1,11 @@
+title: "epidemiology-alzheimer-latin-america-systematic-review"
+description: "Systematic review of epidemiological data on Alzheimer's disease across Latin American countries (2000-2024)."
+url: "https://juanmoisesd.github.io"
+baseurl: "/epidemiology-alzheimer-latin-america-systematic-review"
+author:
+  name: "Juan Moisés de la Serna Tuya"
+  orcid: "0000-0002-8401-8018"
+  institution: "Universidad Internacional de La Rioja (UNIR)"
+plugins:
+  - jekyll-seo-tag
+theme: minima
